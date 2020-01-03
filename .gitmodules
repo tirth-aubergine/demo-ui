@@ -1,4 +1,0 @@
-[submodule "demo-lib"]
-	path = demo-lib
-	url = https://github.com/tirth-aubergine/demo-lib.git
-	branch = master
